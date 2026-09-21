@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Mathesh M
+# Hi, I'm Mathesh M
 
-### 🚀 Java Backend Developer | Spring Boot | Full-Stack Development
+### Java Backend Developer | Spring Boot | Full-Stack Development
 
 I'm a **Computer and Communication Engineering** graduate passionate about building reliable backend systems, scalable applications, and technology-driven solutions.
 
@@ -13,12 +13,12 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 🗄️ SQL & NoSQL Databases
 🔐 Security & Authentication
 🐳 Docker & Cloud
-🧠 Problem Solving & DSA
+🧠 Problem Solving 
 ```
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 * 🎓 Computer & Communication Engineering graduate
 * ☕ Focused on **Java Backend Development**
@@ -33,7 +33,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
