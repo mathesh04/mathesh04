@@ -92,23 +92,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 * CSS3
 * JavaScript
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathesh04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathesh04&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathesh04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🏗️ What I Like Building
 
