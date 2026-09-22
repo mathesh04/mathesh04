@@ -163,6 +163,4 @@ I'm always interested in connecting with developers, recruiters, engineers, and 
 
 > **Build. Break. Learn. Improve. Repeat.**
 
-⭐ If you find something useful in my repositories, feel free to explore, star, or contribute!
-
 **Thanks for visiting my profile! 🚀**
