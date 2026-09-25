@@ -20,18 +20,18 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 
 ##  About Me
 
-* 🎓 Computer & Communication Engineering graduate
-* ☕ Focused on **Java Backend Development**
-* 🌱 Currently strengthening my skills in **Spring Boot, Microservices, System Design & DSA**
-* 🔐 Also Interested in **Cybersecurity, Blockchain & Post-Quantum Cryptography**
-* 🏗️ Enjoy designing backend architectures and RESTful APIs
-* 🐳 Exploring **Docker, Cloud Deployment & DevOps**
-* 🤝 Open to collaborating on interesting software projects
-* 🎯 Currently preparing for **Software Developer / Java Backend roles**
+*  Computer & Communication Engineering graduate
+*  Focused on **Java Backend Development**
+*  Currently strengthening my skills in **Spring Boot, Microservices, System Design & DSA**
+*  Also Interested in **Cybersecurity, Blockchain & Post-Quantum Cryptography**
+*  Enjoy designing backend architectures and RESTful APIs
+*  Exploring **Docker, Cloud Deployment & DevOps**
+*  Open to collaborating on interesting software projects
+*  Currently preparing for **Software Developer / Java Backend roles**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ###  Languages
 
@@ -39,7 +39,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" />
 </p>
 
-### ⚙️ Backend & Frameworks
+###  Backend & Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
@@ -54,7 +54,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 * Express.js
 * JWT Authentication
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
@@ -65,7 +65,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 * MongoDB
 * Redis
 
-### ☁️ DevOps & Tools
+###  DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,linux" />
@@ -79,7 +79,7 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 * CI/CD fundamentals
 * Cloud deployment
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
@@ -94,38 +94,38 @@ I enjoy turning ideas into working software — from **REST APIs and secure back
 
 
 
-# 🏗️ What I Like Building
+#  What I Like Building
 
 ```text
-        💡 Idea
+         Idea
           │
           ▼
-    🧩 Architecture
+     Architecture
           │
           ▼
-    ☕ Backend Logic
+     Backend Logic
           │
           ▼
-      🌐 REST APIs
+     APIs Design
           │
           ▼
-   🗄️ Database Layer
+    Database Layer
           │
           ▼
-    🔐 Security Layer
+     Security Layer
           │
           ▼
-   🐳 Containerization
+    Containerization
           │
           ▼
-       ☁️ Deploy
+        Deploy
 ```
 
 I like projects that combine **software engineering fundamentals with real-world use cases**.
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 I'm always interested in connecting with developers, recruiters, engineers, and people building interesting technology.
 
@@ -143,7 +143,7 @@ I'm always interested in connecting with developers, recruiters, engineers, and 
 
 ---
 
-### 💭 Developer Philosophy
+###  Developer Philosophy
 
 > **Build. Break. Learn. Improve. Repeat.**
 
