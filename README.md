@@ -7,13 +7,13 @@ I'm a **Computer and Communication Engineering** graduate passionate about build
 I enjoy turning ideas into working software — from **REST APIs and secure backend systems** to **microservices and interactive applications**.
 
 ```text
-💻 Backend Development
-☕ Java & Spring Boot
-🌐 REST APIs & Microservices
-🗄️ SQL & NoSQL Databases
-🔐 Security & Authentication
-🐳 Docker & Cloud
-🧠 Problem Solving 
+ Backend Development
+ Java & Spring Boot
+ REST APIs & Microservices
+ SQL & NoSQL Databases
+ Security & Authentication
+ Docker & Cloud
+ Problem Solving 
 ```
 
 ---
